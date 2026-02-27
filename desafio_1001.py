@@ -9,6 +9,7 @@ não esqueça de imprimir o fim de linha após o resultado, caso contrário,
 você receberá "Presentation Error".
 """
 
-# Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
-
-# Escreva sua solução abaixo
+n1=int(input("Qual é o seu número?"))
+n2=int(input("Qual é o seu número?"))
+X = n1+n2
+print = (f"X={X}")
