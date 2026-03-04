@@ -11,6 +11,9 @@ Saída: Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaç
 em branco antes e depois da igualdade seguido pelo valor correspondente à soma
 de A e B.
 """
+# Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
+
+# Escreva sua solução abaixo
 
 A = int(input())
 B = int(input())
