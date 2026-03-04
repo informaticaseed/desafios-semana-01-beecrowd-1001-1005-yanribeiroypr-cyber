@@ -15,6 +15,9 @@ de imprimir o fim de linha após o resultado, caso contrário, você receberá
 "Presentation Error".
 """
 
-# Link do problema: https://judge.beecrowd.com/pt/problems/view/1005
+A = float(input())
+B = float(input())
 
-# Escreva sua solução abaixo
+MEDIA = (A * 3.5 + B * 7.5) / 11
+
+print("MEDIA = {:.1f}".format(MEDIA))
