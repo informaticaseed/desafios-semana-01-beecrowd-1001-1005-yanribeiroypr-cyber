@@ -11,6 +11,9 @@ Saída: Imprima a mensagem "PROD" conforme exemplo abaixo, com um espaço em bra
 antes e depois da igualdade. Não esqueça de imprimir o fim de linha após o produto,
 caso contrário seu programa apresentará a mensagem: "Presentation Error".
 """
+# Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
+
+# Escreva sua solução abaixo
 
 A = int(input())
 B = int(input())
