@@ -12,6 +12,9 @@ em branco antes e depois da igualdade seguido pelo valor correspondente à soma
 de A e B.
 """
 
-# Link do problema: https://judge.beecrowd.com/pt/problems/view/1003
+A = int(input())
+B = int(input())
 
-# Escreva sua solução abaixo
+SOMA = A + B
+
+print("SOMA = {}".format(SOMA))
